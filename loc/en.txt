@@ -1,4 +1,0 @@
-{
-    "menu_jukebox_NO MERCY" : "Chimera - NO MERCY",
-    "menu_jukebox_screen_NO MERCY" : "Chimera - NO MERCY"
-}
