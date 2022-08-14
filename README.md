@@ -1,4 +1,4 @@
-# Music-Payday-2-Heist-Track-NO-MERCY-WIP-
+# Music-Payday-2-Heist-Track-NO-MERCY-WIP
 Make sure to first have SuperBLT, and BeardLib installed. Click the links in the dependency list.
 
 Optional video tutorial for installing SuperBLT, BeardLib, and mod_overrides mods: https://youtu.be/rin_sjSJIkg
